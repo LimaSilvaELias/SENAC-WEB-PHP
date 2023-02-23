@@ -12,7 +12,11 @@ Eu fiquei responsável pelo desenvolvimento do CREAT do CRUD.<br>
 Heber ficou responsável pelo desenvolvimento do UPDATE do CRUD.<br>
 Maira ficou responsável pelo desenvolvimento do READ e DELETE do CRUD.<br>
 
-O perfil do github dos envolvidos está em colaboradores.
+<b>PERFIL GITHUB</b>
+<br>
+
+Heber: https://github.com/HeberGD
+Maira: https://github.com/Mairaajr
 
 
 <b>Linguagens utilizadas:</b>
