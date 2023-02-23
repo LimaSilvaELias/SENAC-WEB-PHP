@@ -1,5 +1,5 @@
 # SENAC-WEB-PHP
-<h3><b>Projeto web utilizando PHP / HTML / CSS </b></h3>
+<h3><b>Projeto web utilizando PHP / HTML / CSS / BOOTSTRAP / JQUERY </b></h3>
 
 Olá!
 Este projeto foi desenvolvido com intuito de consolidar os conhecimentos passados em aulas, de acordo com a situação problema, o start do projeto foi feito em conjunto por todos os alunos e dividido entre dois grupos de três alunos.
@@ -20,6 +20,8 @@ O perfil do github dos envolvidos está em colaboradores.
 ♦PHP
 ♦HTML
 ♦CSS
+♦BOOTSTRAP
+♦JQUERY
 
 PÁGINA INDEX
 ![image](https://user-images.githubusercontent.com/112984148/221013898-b5ccbedb-7f5d-42af-8883-dd322173ffe6.png)
