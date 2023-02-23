@@ -15,7 +15,7 @@ Maira ficou responsável pelo desenvolvimento do READ e DELETE do CRUD.<br>
 <b>PERFIL GITHUB</b>
 <br>
 
-Heber: https://github.com/HeberGD
+Heber: https://github.com/HeberGD<br>
 Maira: https://github.com/Mairaajr
 
 
