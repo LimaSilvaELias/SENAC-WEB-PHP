@@ -24,6 +24,8 @@ Maira: https://github.com/Mairaajr
 ♦PHP
 ♦HTML
 ♦CSS
+<br>
+<b>Framework e Library</b><br>
 ♦BOOTSTRAP
 ♦JQUERY
 
