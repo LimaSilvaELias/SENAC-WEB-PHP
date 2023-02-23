@@ -1,5 +1,5 @@
 # SENAC-WEB-PHP
-Projeto web utilizando PHP / HTML / CSS 
+<h3><b>Projeto web utilizando PHP / HTML / CSS </b></h3>
 
 Olá!
 Este projeto foi desenvolvido com intuito de consolidar os conhecimentos passados em aulas, de acordo com a situação problema, o start do projeto foi feito em conjunto por todos os alunos e dividido entre dois grupos de três alunos.
@@ -8,12 +8,14 @@ O nosso grupo ficou responsável no desenvolvimento do CRUD de AUTOMÓVEL, dito 
 Integração com banco de dados via xamp, link de acesso para download: https://www.apachefriends.org/pt_br/index.html
 Foram designados cada parte do CRUD entre o grupo composto por (Eu, Heber e Maira).
 
-Eu fiquei responsável pelo desenvolvimento do CREAT do CRUD.
-Heber ficou responsável pelo desenvolvimento do UPDATE do CRUD.
-Maira ficou responsável pelo desenvolvimento do READ e DELETE do CRUD.
+Eu fiquei responsável pelo desenvolvimento do CREAT do CRUD.<br>
+Heber ficou responsável pelo desenvolvimento do UPDATE do CRUD.<br>
+Maira ficou responsável pelo desenvolvimento do READ e DELETE do CRUD.<br>
+
+O perfil do github dos envolvidos está em colaboradores.
 
 
-Linguagens utilizadas:
+<b>Linguagens utilizadas:</b>
 
 ♦PHP
 ♦HTML
