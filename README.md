@@ -5,7 +5,7 @@ Olá!
 Este projeto foi desenvolvido com intuito de consolidar os conhecimentos passados em aulas, de acordo com a situação problema, o start do projeto foi feito em conjunto por todos os alunos e dividido entre dois grupos de três alunos.
 O nosso grupo ficou responsável no desenvolvimento do CRUD de AUTOMÓVEL, dito isso, para ter uma melhor experiência visualizando o projeto, recomendamos o download do XAMP para o acesso ao projeto, SQL do projeto incluso na pasta do projeto. 
 
-Integração com banco de dados via xamp, link de acesso para download: https://www.apachefriends.org/pt_br/index.html
+Integração com banco de dados via xamp, link de acesso para download: https://www.apachefriends.org/pt_br/index.html <br>
 Foram designados cada parte do CRUD entre o grupo composto por (Eu, Heber e Maira).
 
 Eu fiquei responsável pelo desenvolvimento do CREAT do CRUD.<br>
