@@ -20,12 +20,12 @@ Maira: https://github.com/Mairaajr
 
 
 <b>Linguagens utilizadas:</b>
-
+<br>
 ♦PHP
 ♦HTML
 ♦CSS
-<br>
-<b>Framework e Library</b><br>
+<br><br>
+<b>Framework e Library</b><br><br>
 ♦BOOTSTRAP
 ♦JQUERY
 
