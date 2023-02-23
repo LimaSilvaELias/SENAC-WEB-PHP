@@ -20,7 +20,7 @@ Maira: https://github.com/Mairaajr
 
 
 <b>Linguagens utilizadas:</b>
-<br>
+<br><br>
 ♦PHP
 ♦HTML
 ♦CSS
