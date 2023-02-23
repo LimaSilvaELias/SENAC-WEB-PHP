@@ -1,0 +1,61 @@
+
+.cadastro{
+  background: transparent;
+    color: aliceblue;
+    border-radius: 20 20 20 20;
+    width: 400px;
+    height: 500px;
+    border-color: rgb(66, 66, 66);
+    border: 3;
+    margin-right: 200px;
+    margin-left: 200px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    padding-top: 150px;
+}
+
+.msg{
+    width: 100%;
+    height: 125px;
+    border: 2;
+    background-color: gray;
+    border-color: greenyellow;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+}
+
+.fundo{
+    background-image: url(https://wallpaperforu.com/wp-content/uploads/2021/05/Wallpaper-Black-Bmw-Car-Bmw-M3-Race-Cars-Racing-Smoke7.jpg);
+    height: 750px;
+}
+
+label{
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    color: white;
+    background-color: black;
+    opacity: 60%;
+}
+
+input{
+    border-radius: 20px 20px 20px 20px;
+    opacity: 95%;
+    background-color: beige;
+    color: black;
+    border-color: aqua;
+}
+
+::placeholder{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+img{
+    width: 100%;
+    height: 300px;
+}

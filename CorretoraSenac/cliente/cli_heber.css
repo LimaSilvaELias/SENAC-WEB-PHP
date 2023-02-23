@@ -1,0 +1,51 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', Helvetica;
+    font-weight: bolder ;
+    
+}
+
+body{
+    color: rgb(0, 0, 0);    
+    background: #929294;
+    
+}
+.corpo{
+    animation: animacao 1s ease 0s 1 normal forwards;
+    width: 900px;
+    height: fit-content;
+    border-radius: 50px;
+    background-image: url(https://img.freepik.com/premium-photo/chalkboard-blackboard-green-texture-empty-blank-with-copy-space-chalk-text_1258-41895.jpg);
+    color: aliceblue;
+    background-repeat:no-repeat;
+    background-size: cover;
+    box-shadow:  23px 23px 52px #3d3e41,
+             -23px -23px 52px #3b3c3f;
+}
+.cabecalho{
+    margin: 30px;
+}
+
+.bgcliente{
+    width: 100%;
+    height: 100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/503/807/original/modern-fluid-green-background-free-vector.jpg);
+}
+
+@keyframes animacao {
+	0% {
+		opacity: 0;
+		transform: translateY(-250px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
